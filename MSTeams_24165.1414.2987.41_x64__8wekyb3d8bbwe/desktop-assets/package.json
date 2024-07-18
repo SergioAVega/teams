@@ -1,0 +1,8 @@
+{
+  "name": "@msteams/maglev-included-web-assets",
+  "version": "240531014.21.29631948",
+  "description": "Web assets built and packaged for Maglev T2.1 client to serve.",
+  "main": "dist/es/index.js",
+  "module": "dist/es/index.js",
+  "types": "dist/es/index.d.ts"
+}

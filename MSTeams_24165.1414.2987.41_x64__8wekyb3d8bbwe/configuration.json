@@ -1,0 +1,10 @@
+{
+  "app/modifyComGlobalRoSettings": true,
+  "app/enableAppSwitcher": true,
+  "app/enableAppSwitcherMac": true,
+  "core/hideMainWindow": true,
+  "core/startPage": "https://teams.microsoft.com/v2/?skipauthstrap=1",
+  "ecs/packageConfigEnabled": true,
+  "systemTray/enableSignout": false,
+  "taskbar/enableFlyoutBadge": false
+}

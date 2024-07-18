@@ -1,0 +1,8 @@
+{
+  "name": "@msteams/trusted-ui",
+  "version": "240530259.0.29105857",
+  "description": "TrustedUI experience built and packaged for Maglev T2.x client to serve.",
+  "main": "dist/es/index.js",
+  "module": "dist/es/index.js",
+  "types": "dist/es/index.d.ts"
+}

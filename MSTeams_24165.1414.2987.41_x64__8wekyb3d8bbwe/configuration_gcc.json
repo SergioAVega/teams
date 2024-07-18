@@ -1,0 +1,5 @@
+{
+  "test/enableGCC": true,
+  "tma/meetingAddinEnableTownHall": false,
+  "tma/meetingAddinEnableVirtualAppointment": false
+}

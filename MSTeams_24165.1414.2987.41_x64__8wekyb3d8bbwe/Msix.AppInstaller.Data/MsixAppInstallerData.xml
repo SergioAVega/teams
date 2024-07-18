@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstallerUX xmlns="http://schemas.microsoft.com/msix/appinstallerux"
+xmlns:ux="http://schemas.microsoft.com/msix/appinstallerux"
+xmlns:ux2="http://schemas.microsoft.com/msix/appinstallerux/2"
+IgnorableNamespaces="ux ux2" Version="1.0.0">
+  <UX AccentColor="#6264A7" FontFamily="Segoe UI" AllowUserInteraction="false" BackgroundColor="#F3F3F3"
+  AppNameInTitle="true"
+  HyperLinkFontSize="12">
+    <Icon HorizontalAlignment="center" Logo="Images\TeamsForWorkNewAppList.targetsize-96.png" TopMargin="70"/>
+    <Buttons HorizontalAlignment="center" Text="Teams" IsSecondaryButtonAccent="false"/>
+    <LaunchWhenReady HorizontalAlignment="center"/>
+    <AppInformation Mode="flyout" />
+    <HyperLinks TopMargin="30">
+      <HyperLink  Text="Terms &amp; conditions" Url="https://support.microsoft.com/" HorizontalAlignment="center"/>
+    </HyperLinks>
+  </UX>
+</AppInstallerUX>
